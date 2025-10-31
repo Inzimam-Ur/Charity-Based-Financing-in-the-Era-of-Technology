@@ -6,7 +6,7 @@
 
 **Researcher:** [Inzimam Ur Rehman](https://www.linkedin.com/in/inzimam-ur-rehman)
 
-**Supervisor:** [Dr. Nihat Gümüş]
+**Supervisor:** Dr. Nihat Gümüş
 
 **Academic Year:** 2023–2024
 
