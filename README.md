@@ -3,8 +3,8 @@
 **University:** Ibn Haldun University (IHU), Turkey
 **Program:** M.A. Financial Economics
 **Researcher:** [Inzimam Ur Rehman](https://www.linkedin.com/in/inzimam-ur-rehman)
-**Supervisor:** [Dr. Nihat Gümüş](https://www.linkedin.com/in/nihatgumus)
-**Academic Year:** 2024–2025
+**Supervisor:** [Dr. Nihat Gümüş]
+**Academic Year:** 2023–2024
 
 ---
 
@@ -14,15 +14,14 @@ This repository hosts the **systematic literature review** titled *“Charity-Ba
 
 The research investigates how **financial technology (FinTech)** — such as **blockchain, crowdfunding, and digital payment systems** — is reshaping the landscape of **charitable giving and social finance**.
 
-By analyzing over **1,000 articles** from **Scopus** and **Web of Science** (2010–2024), this study identifies the **key trends, authors, countries, and themes** driving research in **digital philanthropy**, **Islamic FinTech**, and **technology-enabled charity models**.
+By analyzing over **112 articles** from **Scopus** and **Web of Science** (2010–2024), this study identifies the **key trends, authors, countries, and themes** driving research in **digital philanthropy**, **Islamic FinTech**, and **technology-enabled charity models**.
 
 ---
 
 ## 🧠 Research Objectives
 
-1. To explore how FinTech innovations influence **charity-based financing**.
+1. To explore how FinTech innovations influence **Public finance**.
 2. To identify **major research themes** and **leading contributors** in digital philanthropy.
-3. To assess the role of **Islamic and green FinTech** in promoting **transparency, inclusion, and sustainability**.
 
 ---
 
@@ -40,53 +39,45 @@ By analyzing over **1,000 articles** from **Scopus** and **Web of Science** (201
 
 ## 📈 Main Findings
 
-* **Crowdfunding, blockchain, and digital platforms** are transforming modern philanthropy.
-* **FinTech tools** enhance **efficiency, transparency, and donor trust** in charity operations.
-* **Islamic FinTech** offers promising ethical models integrating **zakat**, **waqf**, and **sadaqah**.
-* **Green FinTech** aligns with environmental and sustainability goals.
-* The majority of contributions stem from **China**, **Malaysia**, and the **United States**.
-
-This study concludes that technology-driven finance not only increases access and accountability but also reshapes the moral and structural dimensions of giving.
+This study explores the new emerging landscape of technology and its effects on the impact ofphilanthropy, in a systematic review of the current literature in charitable financing. Material was sourcedfrom two major academic databases, Scopus, and Web of Science, giving a total initial dataset of 1,030articles. After filtering, 112 articles on the topic of consumer donations were chosen using bibliometricanalysis. These indicate that research output started to increase considerably after 2010, with a significant rise especially in the number of relevant works within these recent years. Key findings present that theme Crowdfunding, blockchain technology, and their roles in enhancing financial inclusions and social welfare have been the most discussed. The journal "Sustainability (Switzerland)" proved to be the leading one in this area, represented by 307 authors. The most frequent keywords are "crowdfunding," "donations," and "blockchain," pointing out the emphasis of each topic in the modern context of philanthropy. The contribution of this study is to derive insights from how fintech innovations redefine conventional ways of fundraising and supporting sustainable development goals. The results indicate that greater transparency, efficiency, and participation of people in charitable activities due to the integration of technology in philanthropy would lead to greater financial inclusion.
 
 ---
 
 ## 📚 Literature Review
 
-All bibliometric data, reference materials, and supporting documents are available in the following folder:
+All bibliometric data, reference materials, and supporting documents are available in the following folder: Each theme articles can be found in the category sub folder name as  "themes articles".
 
-👉 [Literature Review & Data Folder](https://drive.google.com/drive/folders/1P1wjE4TA6ZPSg-4fTFmFxGDthVcJIjli?usp=sharing)
+👉 [Literature Review & Data Folder](https://drive.google.com/drive/folders/1b7gj7-VaME7aNR8bvHQg-_43vl5rpiez?usp=sharing)
 
 ---
 
 ## 🎤 Conference Presentations
 
-This paper was presented at multiple academic events:
+This paper was presented at **IHU Business Administration Colloquium** — Presented and received strong feedback from participants.
+   📄 [details](https://man.ihu.edu.tr/tr/ihu-isletme-kolokyumu-nda-fintech-in-hayirseverlik-finansmanindaki-rolu-incelendi)
 
-1. **TBEC 2025 Conference** — Presented and received strong feedback from participants.
-   📄 [Certificate](https://drive.google.com/file/d/1iTbUbyg9zAjYb5_FovJWGUfuO8qK8DQY/view?usp=sharing)
+---
+## 🔒 Data Availability  
 
-2. **GradCon 2025 (Ibn Haldun University)** — Showcased research findings to academic peers.
-   📄 [Certificate](https://www.linkedin.com/in/inzimam-ur-rehman/details/certifications/1749643983592/single-media-viewer/?profileId=ACoAAC7uW_kB_OfQEiCXZ3aqYwzXIYxyEuKcrfU)
+The original dataset is taken from Web of science and Scopus webiste on site.The Clean dataset is  **not publicly available** due to confidentiality but can be made avaiable upon individual request.
+
+Researchers may contact the author for data-sharing inquiries
 
 ---
 
-## 🔒 📊 Data Analysis Results
+##  📊 Data Analysis Results
 
 This folder contains the **bibliometric analysis outputs**, including:
+Keyword co-occurrence networks, Country and author collaboration maps, Trend and source impact graphs, Top-cited publications tables and major themes within the literature.
 
-* Keyword co-occurrence networks
-* Country and author collaboration maps
-* Trend and source impact graphs
-* Top-cited publications tables
-
-📂 Explore the results here: [Data Analysis Results Folder](https://drive.google.com/drive/folders/1C9-N97piGszvWEQxatPURUPoDGBNLbJQ?usp=sharing)
+📂 Explore the results here: [Data Analysis Results Folder](https://drive.google.com/drive/folders/14BYe4-1QpbYELEgfNdDp3k04BrXvVir7?dmr=1&ec=wgc-drive-globalnav-goto)
 
 ---
 
 ## 📄 Final Paper
 
 You can access the **full systematic literature review document** here:
-📘 [Full Paper](https://drive.google.com/file/d/1y_6YWloXtVQPNe47VXvJR1AHhUXCPMz2/view?usp=sharing)
+📘 [Full Paper](https://drive.google.com/file/d/1cUT3AhUl8UVQ5x_APP_z6sGkBNUKz6sn/view)
 
 ---
 
