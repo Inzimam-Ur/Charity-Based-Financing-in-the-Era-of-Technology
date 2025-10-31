@@ -1,9 +1,13 @@
 # 🎓 Charity-Based Financing in the Era of Technology
 
 **University:** Ibn Haldun University (IHU), Turkey
+
 **Program:** M.A. Financial Economics
+
 **Researcher:** [Inzimam Ur Rehman](https://www.linkedin.com/in/inzimam-ur-rehman)
+
 **Supervisor:** [Dr. Nihat Gümüş]
+
 **Academic Year:** 2023–2024
 
 ---
